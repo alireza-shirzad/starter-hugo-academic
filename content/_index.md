@@ -30,6 +30,34 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Bachelor of Engineering, Major in Electrical Engineering (Communication Networks and Systems)
+          company: Sharif University Of Technology
+          company_url: 'https://www.sharif.edu/'
+          company_logo: org-gc
+          location: Tehran
+          date_start: '2016'
+          date_end: '2021'
+        - title: Bachelor of Engineering, Minor in Computer Science
+          company: Sharif University Of Technology
+          company_url: 'https://www.sharif.edu/'
+          company_logo: org-gc
+          location: Tehran
+          date_start: '2018'
+          date_end: '2021'
+    design:
+      columns: '2'
+  - block: experience
+    content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -199,11 +227,11 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
