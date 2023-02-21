@@ -59,8 +59,8 @@ sections:
           company_url: 'https://www.sharif.edu/'
           company_logo: sharif
           location: Tehran
-          date_start: '2021-02-18'
-          date_end: '2021-01-01'
+          date_start: '2018-09-10'
+          date_end: '2021-02-18'
     design:
       columns: '2'
   # - block: experience
