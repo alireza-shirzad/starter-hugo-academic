@@ -53,7 +53,7 @@ social:
     link: 'malito:alr.shirzad@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/alirshirzad
+    link: https://twitter.com/alrshirzad
     label: Follow me on Twitter
     display:
       header: true
