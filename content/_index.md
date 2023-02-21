@@ -43,17 +43,17 @@ sections:
         - title: Bachelor of Engineering, Major in Electrical Engineering (Communication Networks and Systems)
           company: Sharif University Of Technology
           company_url: 'https://www.sharif.edu/'
-          company_logo: org-gc
+          company_logo: sharif
           location: Tehran
-          date_start: '2021-01-01'
+          date_start: '2016-09-10'
           date_end: '2021-01-01'
         - title: Bachelor of Engineering, Minor in Computer Science
           company: Sharif University Of Technology
           company_url: 'https://www.sharif.edu/'
-          company_logo: org-gc
+          company_logo: sharif
           location: Tehran
-          date_start: '2021-01-01'
-          date_end: '2021-01-01'
+          date_start: '2021-02-18'
+          date_end:
     design:
       columns: '2'
   # - block: experience
