@@ -40,6 +40,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Master of Engineering, Secure Communication and Cryptography
+          company: Sharif University Of Technology
+          company_url: 'https://www.sharif.edu/'
+          company_logo: sharif
+          location: Tehran
+          date_start: '2021-02-18'
+          date_end:
         - title: Bachelor of Engineering, Major in Electrical Engineering (Communication Networks and Systems)
           company: Sharif University Of Technology
           company_url: 'https://www.sharif.edu/'
@@ -53,7 +60,7 @@ sections:
           company_logo: sharif
           location: Tehran
           date_start: '2021-02-18'
-          date_end:
+          date_end: '2021-01-01'
     design:
       columns: '2'
   # - block: experience
