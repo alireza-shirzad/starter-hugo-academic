@@ -33,9 +33,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
     - course: MSc in Secure Communications and Cryptography
       institution: Sharif University Of Technology
       year: 2023
