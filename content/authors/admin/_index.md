@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alireza Shirzad is a master student of Secure Communications and Cryptography at Sharif University Of Technology in Tehran, Iran. Her research interests include Applied Cryptography, Zero-Knowledge Proof Systems and Blockchain Technology. He is currently working on developing a secure and fast Rust framework of the doubly efficient GKR framework.
+Alireza Shirzad is a master student of Secure Communications and Cryptography at Sharif University Of Technology in Tehran, Iran. His research interests include Applied Cryptography, Zero-Knowledge Proof Systems and Blockchain Technology. He is currently working on developing a secure and fast Rust framework of the doubly efficient GKR framework.
 {style="text-align: justify;"}
