@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: arxiv Link
   url: https://arxiv.org/abs/2209.10410
 url_pdf: https://arxiv.org/pdf/2209.10410
 url_code: 
