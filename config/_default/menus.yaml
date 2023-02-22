@@ -10,12 +10,15 @@ main:
   - name: blog
     url: 'https://blog.alireza-shirzad.ir'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Education
+    url: '#education'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
   - name: Publications
     url: '#featured'
     weight: 50

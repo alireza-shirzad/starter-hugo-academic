@@ -40,6 +40,7 @@ sections:
 
 
   - block: experience
+    id: education
     content:
       title: Education
       # Date format for experience
