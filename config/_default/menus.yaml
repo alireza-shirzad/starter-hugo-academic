@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: blog
-    url: 'https://www.blog.alireza-shirzad.ir'
+    url: 'https://blog.alireza-shirzad.ir'
     weight: 20
   - name: Projects
     url: '#projects'
