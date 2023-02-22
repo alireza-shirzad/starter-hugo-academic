@@ -27,8 +27,11 @@ abstract: Vaccinating the global population against Covid-19 is one of the bigge
 summary: 
 
 tags:
+- Blockchain
+- Solidity
+- Smart Contract
 
-featured: true
+featured: false
 
 links:
 - name: Custom Link
