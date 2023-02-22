@@ -1,6 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "Cold Supply Chain Planning including Smart Contracts: An Intelligent Blockchain-based approach"
 authors:
+- Soroush Goodarzi
+- Vahid Kayvanfar
+- Alireza Haji
 - admin
 date: "2019-04-07T00:00:00Z"
 doi: ""
@@ -18,20 +21,20 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Vaccinating the global population against Covid-19 is one of the biggest supply chain management challenges humanity has ever faced. Rapid supply of Covid-19 vaccines is essential for successful global immunization, but its effectiveness depends on a transparent supply chain that can be monitored. In this research, we have proposed an approach based on blockchain technology, which is used to ensure seamless distribution of the Covid-19 vaccine with transparency, data integrity, and full traceability of the supply chain to reduce risk, ensure safety, and immutability. A vaccine supply chain needs to update the status of the vaccine at every stage, and any problem in the supply and distribution path can lead to irreparable damage. Currently, the research conducted on the use of blockchain in supply chains is still in the early stages. In this paper, the use of blockchain technology to monitor the vaccine supply and distribution system will be investigated. A model close to reality of today's vaccine supply chains in developing countries is considered and then a new intelligent system for vaccine monitoring in the vaccine supply chain is designed based on the considered model. Also, smart contracts based on a blockchain network is designed to check consumer vaccination records as well as vaccine circulation from beginning to end. The implementation and design of the vaccine supply chain is done using smart contracts on the Ethereum blockchain network. Additionally, the system has been tested on both local networks, the HardHat suite and Rinkbey's test network. The system has also been developed to work seamlessly when it is using an integrated IoT chip that can automatically update a batch's location, temperature, and other physical conditions periodically.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
+
 featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+  url: https://arxiv.org/abs/2209.10410
+url_pdf: https://arxiv.org/pdf/2209.10410
+url_code: 
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
